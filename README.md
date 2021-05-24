@@ -1,6 +1,6 @@
 # Hey, I'm Harshitha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science studen,.** at the **University of Waterloo**, aspiring to advance the world of Artificial Intelligence!
+I'm a **Computer Science studen,.** at the **University of Waterloo**, eager to solve pressing world problems using my knowledge!
 
 - 💻 I am currently working on a Python project 
 - 🤹 My Skills: C, C++, Python, HTML, CSS, JavaScript, SQL, React.js, Node.js, Flask
