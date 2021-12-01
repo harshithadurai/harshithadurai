@@ -5,7 +5,7 @@ I'm a **Computer Science studen,.** at the **University of Waterloo**, eager to 
 - 💻 I am currently working on a Python project 
 - 🤹 My Skills: C, C++, Python, HTML, CSS, JavaScript, SQL, React.js, Node.js, Flask
 - 😄 Pronouns: she/her
-- 💬 Don't be shy, contact me at [hduraiba@uwaterloo.ca](mailto:hduraiba@uwaterloo.ca)!
+- 💬 Contact me at [hduraiba@uwaterloo.ca](mailto:hduraiba@uwaterloo.ca)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-@harshitha.durai-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-durai/)](https://www.linkedin.com/in/harshitha-durai/)
 [![Outlook Badge](https://img.shields.io/badge/-hduraiba-blue?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:hduraiba@uwaterloo.ca)](mailto:hduraiba@uwaterloo.ca)
