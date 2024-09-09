@@ -1,4 +1,4 @@
-# Hey, I'm Harshitha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Harshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a **Computer Science student**, at the **University of Waterloo**, eager to solve pressing world problems using my knowledge!
 
