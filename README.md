@@ -1,5 +1,5 @@
 # Hey, I'm Harshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 💬 Contact me at [hduraiba@uwaterloo.ca](mailto:hduraiba@uwaterloo.ca)!
+💬 Contact me at [hduraiba@uwaterloo.ca](mailto:hduraiba@uwaterloo.ca)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-@harshitha.durai-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-durai/)](https://www.linkedin.com/in/harshitha-durai/)
 [![Outlook Badge](https://img.shields.io/badge/-hduraiba-blue?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:hduraiba@uwaterloo.ca)](mailto:hduraiba@uwaterloo.ca)
