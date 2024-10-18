@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@harshitha.durai-purple?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-durai/)](https://www.linkedin.com/in/harshitha-durai/)
 [![Outlook Badge](https://img.shields.io/badge/-hduraiba-blue?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:hduraiba@uwaterloo.ca)](mailto:hduraiba@uwaterloo.ca)
 #
-
+<!--
 [![Harshitha's Github Stats](https://github-readme-stats.vercel.app/api?username=harshithadurai&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadurai&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
